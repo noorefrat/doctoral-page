@@ -228,12 +228,6 @@ body {
     display: none;
 }
 
-/* slightly bigger buttons */
-.menu-item p {
-    font-size: 1.1rem;
-}
-
-
 /* media calls */
 @media only screen and (max-width: 767px){
     .page-wrapper {
@@ -270,7 +264,7 @@ body {
     
     /* slightly bigger buttons */
     .menu-item p {
-        font-size: 0.85rem;
+        font-size: 0.95rem;
     }
 
     
