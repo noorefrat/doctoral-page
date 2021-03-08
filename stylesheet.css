@@ -316,4 +316,5 @@ body {
 #made-by {
     text-align: center;
     text-align: -moz-center;
+    text-align: -webkit-center;
 }
