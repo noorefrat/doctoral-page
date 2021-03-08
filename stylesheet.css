@@ -228,6 +228,11 @@ body {
     display: none;
 }
 
+/* slightly bigger buttons */
+.menu-item p {
+    font-size: 1.1rem;
+}
+
 
 /* media calls */
 @media only screen and (max-width: 767px){
@@ -262,6 +267,12 @@ body {
         font-size: 0.75rem;
         line-height: 0.75rem;
     }
+    
+    /* slightly bigger buttons */
+    .menu-item p {
+        font-size: 0.85rem;
+    }
+
     
     #menu-container {
         width: 100%;
