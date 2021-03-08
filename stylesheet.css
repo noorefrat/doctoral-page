@@ -240,8 +240,22 @@ body {
     }
     
     h1 {
-        font-size: 1.25rem;
-        line-height: 1.25rem;
+        font-size: 1.1rem;
+        line-height: 1.1rem;
+    }
+    
+    h2 {
+        font-size: 0.9rem;
+        line-height: 0.9rem;
+    }
+    
+    h4 {
+        font-size: 0.85rem;
+        line-height: 0.85rem;
+    }
+    
+    .indented-container {
+        margin-right: 2.5%;
     }
     
     p {
