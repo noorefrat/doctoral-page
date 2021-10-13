@@ -51,5 +51,9 @@ $(document).ready(function(){
             $("#transparency-in-modern-hebrew-abstract-div").slideToggle();
         });
         
+        $("#learnability-abstract").click(function() {
+            $("#learnability-abstract-div").slideToggle();
+        });
+        
         
     });
