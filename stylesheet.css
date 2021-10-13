@@ -227,6 +227,9 @@ body {
 #transparency-in-modern-hebrew-abstract-div {
     display: none;
 }
+#learnability-abstract-div {
+    display: none;   
+}
 
 /* media calls */
 @media only screen and (max-width: 767px){
