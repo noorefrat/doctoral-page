@@ -127,13 +127,8 @@ body {
     height: auto;
 }
 
-#profile-picture section:first-child {
-    display: flex;
-    align-item: flex-start;
-}
-
 #profile-image {
-    height: auto;
+    height: intrinsic;
 }
 
 #title-wrapper {
