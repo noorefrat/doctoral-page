@@ -128,7 +128,8 @@ body {
 }
 
 #profile-image {
-    height: intrinsic;
+    max-height: 320px;
+    height: auto;
 }
 
 #title-wrapper {
