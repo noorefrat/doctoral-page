@@ -130,6 +130,8 @@ body {
 #profile-image {
     max-height: 320px;
     height: auto;
+    max-width: 256px;
+    width: auto;
 }
 
 #title-wrapper {
