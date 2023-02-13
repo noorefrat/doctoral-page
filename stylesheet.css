@@ -4,11 +4,11 @@ html {
 }
 
 h1, h2, h3, h4 {
-    font-family: Roboto;
+    font-family: Lato;
 }
 
 p {
-    font-family: Roboto;
+    font-family: Lato;
 }
 
 h1 {
@@ -26,7 +26,7 @@ h2 {
 }
 
 a {
-    text-decoration: none;    
+    text-decoration: none;
 }
 
 /* base page color */
@@ -174,7 +174,7 @@ body {
     margin-right: auto;
 }
 
-.footer {   
+.footer {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
@@ -235,7 +235,19 @@ body {
     display: none;
 }
 #learnability-abstract-div {
-    display: none;   
+    display: none;
+}
+#contacttrees-abstract-div {
+    display: none;
+}
+#text-and-the-city-abstract-div {
+    display: none;
+}
+#transformations-abstract-div {
+    display: none;
+}
+#enclaves-abstract-div {
+    display: none;
 }
 
 /* media calls */
@@ -243,79 +255,79 @@ body {
     .page-wrapper {
         width: 100%;
     }
-    
+
     .footer {
         margin-top: 2.5%;
     }
-    
+
     h1 {
         font-size: 1.1rem;
         line-height: 1.1rem;
     }
-    
+
     h2 {
         font-size: 0.9rem;
         line-height: 0.9rem;
     }
-    
+
     h4 {
         font-size: 0.85rem;
         line-height: 0.85rem;
     }
-    
+
     .indented-container {
         margin-right: 2.5%;
     }
-    
+
     p {
         font-size: 0.75rem;
         line-height: 1rem;
     }
-    
+
     /* slightly bigger buttons */
     .menu-item p {
         font-size: 0.95rem;
     }
 
-    
+
     #menu-container {
         width: 100%;
     }
-   
+
     #logo {
         height: 96px;
         width: 96px;
     }
-    
+
     .main-container {
         flex-direction: column !important;
     }
-    
+
     #pic-wrapper {
         height: 100%;
         padding: 0;
     }
-    
+
     #content {
         width: 100%;
         margin-top: 2.5%;
     }
-    
+
     #profile-picture {
         margin: auto auto auto 0%;
         max-width: 160px;
         height: auto;
         padding: 2.5vh 2.5vw 2.5vh 2.5vw;
     }
-    
+
     #inner-content-wrapper {
         padding: 2.5vh 2.5vw 2.5vh 2.5vw;
     }
-    
+
     #title-wrapper {
         width: 75%;
     }
-    
+
     #pic-wrapper {
         display: flex;
         flex-direction: row;
