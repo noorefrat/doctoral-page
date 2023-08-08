@@ -9,6 +9,7 @@ h1, h2, h3, h4 {
 
 p {
     font-family: sans-serif;
+    line-height: 1.5;
 }
 
 h1 {
@@ -223,11 +224,11 @@ body {
     margin-left: 2.5%;
 }
 
-/* Hide pages by default, except #project*/
-#education, #presentations, #publications {
+/* Hide pages by default, except #about*/
+#project, #education, #presentations, #publications {
     display: none;
 }
-/* #project is the home section */
+/* #about is the home section */
 
 
 /* Hide abstracts by default */
