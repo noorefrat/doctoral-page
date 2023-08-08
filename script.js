@@ -2,7 +2,7 @@ $(document).ready(function(){
         var fadeTime = 100;
 
         /* menu controls */
-        
+
         $("#navbar-about").click(function() {
             $("#education").fadeOut(fadeTime);
             $("#project").fadeOut(fadeTime);
@@ -13,7 +13,7 @@ $(document).ready(function(){
             }, fadeTime);
             return false;
         });
-        
+
 
         $("#navbar-education").click(function() {
             $("#about").fadeOut(fadeTime);
